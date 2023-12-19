@@ -43,8 +43,18 @@ Let's connect and build the future together! 🌟
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurkanmert&layout=compact&theme=dark&hide_border=true)
+<div class="row">
+<div class="col-md-6">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurkanmert&layout=compact&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=hurkanmert&show_icons=true&hide_border=true&theme=dark)
+</div>
+<div class="col-md-6">
+  ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=hurkanmert&show_icons=true&hide_border=true&theme=dark)
+
+</div>
+
+
+  </div>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hurkanmert)](https://github.com/hurkanmert/github-profile-trophy)
