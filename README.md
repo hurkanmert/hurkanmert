@@ -1,4 +1,4 @@
-
+![Banner Image](image/banner.jpeg)
 <h1 align="center">hello rock'n roll i'm hmd</h1>
 
 **hurkanmert/hurkanmert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
