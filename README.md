@@ -30,24 +30,9 @@ Here are some ideas to get you started:
 
 Let's connect and build the future together! 🌟
 
-[![Linkedin: Ghazi](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/ghazi-khan/)
-[![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/codewithghazi?style=social)
-
-
 ### Top Skills:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Visit my 
-**[Blog](https://ghazikhan.in/blog) - [YouTube](https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg)**
-
-### Author of NPM Package: 
-- **[Formify React](https://www.npmjs.com/package/formify-react)** 
-- **[CWG React Starter](https://github.com/gkhan205/cwg-react-starter)** 
-- **[Slugifyme](https://www.npmjs.com/package/slugifyme)**
-- **[React Soccer Formation](https://www.npmjs.com/package/react-soccer-formation)**
 
 ---
 
@@ -57,10 +42,9 @@ Let's connect and build the future together! 🌟
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/ghazikhan205), [Instagram](https://instagram.com/codewithghazi)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurkanmert&layout=compact&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=hurkanmert&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hurkanmert)](https://github.com/hurkanmert/github-profile-trophy)
