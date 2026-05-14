@@ -36,9 +36,9 @@ Meteorological data collection, processing and visualization pipeline. Fetches r
 ---
 
 ### 🔭 [Archive Downloader](https://dergipark.org.tr/tr/pub/veri/article/1053411) *(Published — Veri Bilimi Journal, 2022)*
-Python/Bash tool for downloading and managing RXTE, XMM-Newton and SWIFT satellite data from NASA/HEASARC archive via UNIX terminal. Developed under TÜBİTAK project 120F094.
+Bash tool for downloading and managing RXTE, XMM-Newton and SWIFT satellite data from NASA/HEASARC archive via UNIX terminal. Developed under TÜBİTAK project 120F094.
 
-`Python` `Bash` `Linux` `NASA/HEASARC API`
+`Bash` `Linux` `NASA/HEASARC` `RXTE` `SWIFT` `XMM-NEWTON` 
 
 ---
 
